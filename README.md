@@ -5,3 +5,4 @@ A repository of 3D Models and 3D related items modeled by me.
 
 # Fidget Spinners
 ![img](Resources/3Fidget.jpg)
+![img](Resources/2Fidget.jpg)
