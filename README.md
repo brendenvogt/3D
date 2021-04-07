@@ -5,6 +5,11 @@ A repository of 3D Models and 3D related items modeled by me.
 - [Fidget Spinners](#fidget-spinners)
 - [Magnetic Holder](#magnetic-holder)
 
+# Programs
+- Blender
+- OnShape.io
+- Pixelmator
+
 # Low Poly Artwork
 - a collection of low poly art and assets
 
@@ -16,3 +21,12 @@ A repository of 3D Models and 3D related items modeled by me.
 ![img](Resources/MagHoldV1.1.jpeg)
 ![img](Resources/MagHoldV1.2.jpeg)
 
+# Future Models
+- Office
+- Living Room
+- Kitchen
+- Bedroom
+- Stairway
+- Hallway
+- Entryway
+- Patio
