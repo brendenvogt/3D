@@ -5,6 +5,7 @@ A repository of 3D Models and 3D related items modeled by me.
 - [Low Poly Artwork](#low-poly-artwork)
 - [Fidget Spinners](#fidget-spinners)
 - [Magnetic Holder](#magnetic-holder)
+- [Misc](#misc)
 - [Future Models](#future-models)
 
 # Programs
@@ -24,6 +25,9 @@ A repository of 3D Models and 3D related items modeled by me.
 # Magnetic Holder
 ![img](Resources/MagHoldV1.1.jpeg)
 ![img](Resources/MagHoldV1.2.jpeg)
+
+# Misc
+![img](Resources/Cap.jpg)
 
 # Future Models
 - Office
