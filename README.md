@@ -3,6 +3,7 @@ A repository of 3D Models and 3D related items modeled by me.
 - [3D](#3d)
 - [Programs](#programs)
 - [Low Poly Artwork](#low-poly-artwork)
+- [Quick Release Plate](#quick-release-plate)
 - [Mounts](#mounts)
 - [Fidget Spinners](#fidget-spinners)
 - [Magnetic Holder](#magnetic-holder)
@@ -16,6 +17,9 @@ A repository of 3D Models and 3D related items modeled by me.
 
 # Low Poly Artwork
 - a collection of low poly art and assets
+
+# Quick Release Plate
+![img](Resources/QuickReleasePlate.jpg)
 
 # Mounts
 ![img](Resources/MountPoleAdapter.png)
